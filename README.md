@@ -1,4 +1,4 @@
-<!-- Accent color used everywhere: #2F81F7 (blue). Portfolio link: add a badge below once your site is ready. -->
+
 
 <div align="center">
 
@@ -37,6 +37,8 @@ I'm a **BSIT (Post ADP)** graduate from the **University of Education, Lahore**,
 | **MERN Stack Fellow** | Dev Weekends | Present |
 | **Front End Web Developer Intern** | U Devs | Jun 01 – Aug 15, 2025 |
 
+
+
 ## 🎓 Education
 
 **BSIT (Post ADP)** — University of Education, Lahore
@@ -47,25 +49,25 @@ I'm a **BSIT (Post ADP)** graduate from the **University of Education, Lahore**,
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/JavaScript-2F81F7?style=flat-square&logo=javascript&logoColor=white" alt="JavaScript" />
-<img src="https://img.shields.io/badge/C%2B%2B-2F81F7?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
-<img src="https://img.shields.io/badge/HTML5-2F81F7?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-<img src="https://img.shields.io/badge/CSS3-2F81F7?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
-<img src="https://img.shields.io/badge/React-2F81F7?style=flat-square&logo=react&logoColor=white" alt="React" />
-<img src="https://img.shields.io/badge/Redux-2F81F7?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
-<img src="https://img.shields.io/badge/Tailwind%20CSS-2F81F7?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-<img src="https://img.shields.io/badge/Bootstrap-2F81F7?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
-<img src="https://img.shields.io/badge/Node.js-2F81F7?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-<img src="https://img.shields.io/badge/Express.js-2F81F7?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
-<img src="https://img.shields.io/badge/MongoDB-2F81F7?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-<img src="https://img.shields.io/badge/Firebase-2F81F7?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
-<img src="https://img.shields.io/badge/Stripe-2F81F7?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
-<img src="https://img.shields.io/badge/PayPal-2F81F7?style=flat-square&logo=paypal&logoColor=white" alt="PayPal" />
-<img src="https://img.shields.io/badge/Cloudinary-2F81F7?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
-<img src="https://img.shields.io/badge/Postman-2F81F7?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-<img src="https://img.shields.io/badge/Git-2F81F7?style=flat-square&logo=git&logoColor=white" alt="Git" />
-<img src="https://img.shields.io/badge/GitHub-2F81F7?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-<img src="https://img.shields.io/badge/Vercel-2F81F7?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=000000" alt="JavaScript" />
+<img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" alt="C++" />
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
+<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3" />
+<img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
+<img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" />
+<img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
+<img src="https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white" alt="Bootstrap" />
+<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
+<img src="https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white" alt="Express.js" />
+<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
+<img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=000000" alt="Firebase" />
+<img src="https://img.shields.io/badge/Stripe-635BFF?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+<img src="https://img.shields.io/badge/PayPal-003087?style=flat-square&logo=paypal&logoColor=white" alt="PayPal" />
+<img src="https://img.shields.io/badge/Cloudinary-3448C5?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
+<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
+<img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
 
 </div>
 
