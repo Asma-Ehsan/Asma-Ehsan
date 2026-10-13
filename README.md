@@ -27,7 +27,6 @@ I'm a **BSIT (Post ADP)** graduate from the **University of Education, Lahore**,
 - 🛒 Building role-based e-commerce platforms and real estate marketplaces with secure **JWT/cookie authentication**, multi-parameter search, and **Stripe** payments with asynchronous webhooks
 - 🎨 Building reusable, component-driven UIs with React, Redux Toolkit, and mobile-first layouts, applying **Human-Computer Interaction (HCI)** principles
 - 🧩 Solving problems in **C++** on LeetCode (**44+ problems solved**)
-- 🤝 Open to connecting with engineering teams, recruiters, and fellow developers about **full-stack and frontend roles**
 
 ---
 
@@ -37,8 +36,6 @@ I'm a **BSIT (Post ADP)** graduate from the **University of Education, Lahore**,
 | --- | --- | --- |
 | **MERN Stack Fellow** | Dev Weekends | Present |
 | **Front End Web Developer Intern** | U Devs | Jun 01 – Aug 15, 2025 |
-
-At U Devs I built reusable, component-driven interfaces using React.js, Redux Toolkit, Tailwind CSS and Bootstrap.
 
 ## 🎓 Education
 
@@ -63,6 +60,8 @@ At U Devs I built reusable, component-driven interfaces using React.js, Redux To
 <img src="https://img.shields.io/badge/MongoDB-2F81F7?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
 <img src="https://img.shields.io/badge/Firebase-2F81F7?style=flat-square&logo=firebase&logoColor=white" alt="Firebase" />
 <img src="https://img.shields.io/badge/Stripe-2F81F7?style=flat-square&logo=stripe&logoColor=white" alt="Stripe" />
+<img src="https://img.shields.io/badge/PayPal-2F81F7?style=flat-square&logo=paypal&logoColor=white" alt="PayPal" />
+<img src="https://img.shields.io/badge/Cloudinary-2F81F7?style=flat-square&logo=cloudinary&logoColor=white" alt="Cloudinary" />
 <img src="https://img.shields.io/badge/Postman-2F81F7?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
 <img src="https://img.shields.io/badge/Git-2F81F7?style=flat-square&logo=git&logoColor=white" alt="Git" />
 <img src="https://img.shields.io/badge/GitHub-2F81F7?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
@@ -77,7 +76,7 @@ At U Devs I built reusable, component-driven interfaces using React.js, Redux To
 | **Languages** | JavaScript (ES6+), C++ |
 | **Frontend** | React.js, Redux Toolkit, Tailwind CSS, Bootstrap, HTML5/CSS3 |
 | **Backend** | Node.js, Express.js, REST APIs, JWT & OAuth, OTP Verification |
-| **Databases & Tools** | MongoDB Atlas, Mongoose, Firebase, Git/GitHub, Postman, Vercel, Stripe APIs |
+| **Databases & Tools** | MongoDB Atlas, Mongoose, Firebase, Git/GitHub, Postman, Vercel, Stripe APIs, PayPal, Cloudinary |
 | **Core Concepts** | Object-Oriented Programming (OOP), Data Structures, Human-Computer Interaction (HCI) |
 
 ---
